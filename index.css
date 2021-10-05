@@ -69,7 +69,7 @@ body{
 
 }
 .footer-image{
-    background-image: url(./image-footer.jpg);
+    background-image: url(src\image-footer.jpg);
     background-color:rgb(77,150,168);
     margin-top: 100px;
     display: flex;
